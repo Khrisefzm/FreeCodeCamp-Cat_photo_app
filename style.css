@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+main{
+    width: 50%;
+    margin: auto auto;
+    text-align: center;
+}
+/*to center an unorder list*/
+ul{
+    text-align: left;
+    display:inline-block;
+}
+/*to center an order list*/
+ol{
+    text-align: left;
+    display:inline-block;
+}
